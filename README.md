@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="./assets/maze-runner.svg" width="100%" alt="animated arcade maze runner" />
+<img src="./github-metrics.svg" width="100%" alt="GitHub metrics" />
 
 <br><br>
 
