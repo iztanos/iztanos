@@ -16,6 +16,21 @@
 
 <br><br>
 
-<img src="./assets/terminal-dashboard.svg" width="100%" alt="animated terminal dashboard" />
+<img src="./assets/maze-runner.svg" width="100%" alt="animated arcade maze runner" />
+
+<br><br>
+
+<a href="https://github.com/raysan5/raylib">
+  <img
+    src="https://img.shields.io/github/stars/raysan5/raylib?style=flat-square&logo=c&logoColor=f0f6fc&label=raylib%20contributor&color=161b22"
+    alt="raylib contributor"
+  />
+</a>
+<a href="https://github.com/thewtex/tmux-mem-cpu-load">
+  <img
+    src="https://img.shields.io/github/stars/thewtex/tmux-mem-cpu-load?style=flat-square&logo=tmux&logoColor=f0f6fc&label=tmux--mem--cpu--load%20contributor&color=161b22"
+    alt="tmux-mem-cpu-load contributor"
+  />
+</a>
 
 </div>
