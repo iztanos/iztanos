@@ -16,7 +16,7 @@
 
 <br><br>
 
-<img src="./github-metrics.svg" width="100%" alt="GitHub metrics" />
+<img src="./github-metrics.svg" width="100%" alt="GitHub language metrics" />
 
 <br><br>
 
