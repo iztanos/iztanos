@@ -26,7 +26,7 @@
 <br><br>
 
 <img
-  width="60%"
+  width="58%"
   src="https://streak-stats.demolab.com?user=iztanos&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E"
   alt="GitHub streak"
 />
@@ -34,7 +34,7 @@
 <br><br>
 
 <img
-  width="60%"
+  width="58%"
   src="https://github-readme-stats.vercel.app/api?username=iztanos&show_icons=true&hide=stars&hide_border=true&bg_color=0d1117&title_color=39d353&text_color=c9d1d9&icon_color=39d353"
   alt="GitHub stats"
 />
