@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**iztanos/iztanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `iztanos`
 
-Here are some ideas to get you started:
+<sub><code>OS Internals · Linux Kernel · Performance · Security</code></sub>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+<a href="https://github.com/iztanos">
+  <img src="https://img.shields.io/badge/github-iztanos-161b22?style=flat-square&logo=github&logoColor=f0f6fc" alt="GitHub" />
+</a>
+<a href="https://www.linkedin.com/in/tanushnalla">
+  <img src="https://img.shields.io/badge/linkedin-connect-161b22?style=flat-square&logo=linkedin&logoColor=f0f6fc" alt="LinkedIn" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=iztanos&style=flat-square&label=views&color=161b22" alt="Profile views" />
+
+<br><br>
+
+<img src="./assets/terminal-dashboard.svg" width="100%" alt="animated terminal dashboard" />
+
+</div>
