@@ -54,21 +54,37 @@
 </p>
 
 
+<br>
+
 <h3>
-  <code>Contributor</code>
+  <code>Contributions</code>
 </h3>
 
 <a href="https://github.com/raysan5/raylib">
   <img
     height="38"
-    src="https://img.shields.io/github/stars/raysan5/raylib?style=for-the-badge&logo=c&logoColor=39d353&label=raylib&color=0d1117&labelColor=000000"
-    alt="raylib"
+    src="https://img.shields.io/github/stars/raysan5/raylib?style=for-the-badge&logo=c&logoColor=39d353&label=raylib%20contributor&color=0d1117&labelColor=000000"
+    alt="raylib contributor stars"
+  />
+</a>
+<a href="https://github.com/tmux/tmux">
+  <img
+    height="38"
+    src="https://img.shields.io/github/stars/tmux/tmux?style=for-the-badge&logo=tmux&logoColor=39d353&label=tmux%20credited&color=0d1117&labelColor=000000"
+    alt="tmux credited stars"
+  />
+</a>
+<a href="https://github.com/curl/curl">
+  <img
+    height="38"
+    src="https://img.shields.io/github/stars/curl/curl?style=for-the-badge&logo=curl&logoColor=39d353&label=curl%20credited&color=0d1117&labelColor=000000"
+    alt="curl credited stars"
   />
 </a>
 <a href="https://github.com/thewtex/tmux-mem-cpu-load">
   <img
     height="38"
-    src="https://img.shields.io/github/stars/thewtex/tmux-mem-cpu-load?style=for-the-badge&logo=tmux&logoColor=39d353&label=tmux--mem--cpu--load&color=0d1117&labelColor=000000"
-    alt="tmux-mem-cpu-load"
+    src="https://img.shields.io/github/stars/thewtex/tmux-mem-cpu-load?style=for-the-badge&logo=tmux&logoColor=39d353&label=tmux--mem--cpu--load%20contributor&color=0d1117&labelColor=000000"
+    alt="tmux-mem-cpu-load contributor stars"
   />
 </a>
