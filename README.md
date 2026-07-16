@@ -3,7 +3,7 @@
 # `iztanos`
 
 <h3>
-  <code>OS Internals | Linux Kernel | Performance | Security</code>
+  <code>Operating Systems | Linux Kernel | Performance</code>
 </h3>
 
 <p>
