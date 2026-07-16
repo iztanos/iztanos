@@ -3,11 +3,11 @@
 # `iztanos`
 
 <h3>
-  <code>OS Internals · Linux Kernel · Performance · Security</code>
+  <code>OS Internals | Linux Kernel | Performance | Security</code>
 </h3>
 
 <p>
-  <code>Robotics · GPU Computing · Low-Level Systems</code>
+  <code>Robotics | GPU Computing | Low-Level Systems</code>
 </p>
 
 <a href="https://github.com/iztanos">
@@ -53,13 +53,19 @@
   <img height="28" src="https://img.shields.io/badge/CUDA-0d1117?style=for-the-badge&logo=nvidia&logoColor=39d353&labelColor=000000" alt="CUDA" />
 </p>
 
-
 <br>
 
 <h3>
-  <code>Contributions</code>
+  <code>Open Source</code>
 </h3>
 
+<a href="https://github.com/iztanos/gdb-dojo">
+  <img
+    height="38"
+    src="https://img.shields.io/github/stars/iztanos/gdb-dojo?style=for-the-badge&logo=gnu&logoColor=39d353&label=gdb--dojo&color=0d1117&labelColor=000000"
+    alt="gdb-dojo stars"
+  />
+</a>
 <a href="https://github.com/raysan5/raylib">
   <img
     height="38"
@@ -88,3 +94,5 @@
     alt="tmux-mem-cpu-load contributor stars"
   />
 </a>
+
+</div>
