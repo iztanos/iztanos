@@ -7,7 +7,7 @@
 </h3>
 
 <p>
-  <code>Edge AI| GPU Computing | Robotics</code>
+  <code>Edge AI | GPU Computing | Robotics</code>
 </p>
 
 <a href="https://github.com/iztanos">
