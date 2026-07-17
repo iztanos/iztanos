@@ -3,11 +3,11 @@
 # `iztanos`
 
 <h3>
-  <code>Linux Kernel | Performance | OS Internals</code>
+  <code>Linux Kernel programming | Parallel Computation | Numerical Methods</code>
 </h3>
 
 <p>
-  <code>Edge AI | GPU Computing | Robotics</code>
+  <code>Bare-Metal Vulkan | GPU Kernels & Computing | AI Compilers</code>
 </p>
 
 <a href="https://github.com/iztanos">
