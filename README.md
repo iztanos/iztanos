@@ -34,7 +34,7 @@
 
 <img
   width="54%"
-  src="https://streak-stats.demolab.com?user=iztanos&theme=github-dark-blue&hide_border=true&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&sideLabels=C9D1D9&currStreakNum=F0F6FC&sideNums=F0F6FC&dates=8B949E"
+  src="https://streak-stats.demolab.com?user=iztanos&amp;theme=github-dark-blue&amp;hide_border=true&amp;background=0D1117&amp;ring=39D353&amp;fire=39D353&amp;currStreakLabel=39D353&amp;sideLabels=C9D1D9&amp;currStreakNum=F0F6FC&amp;sideNums=F0F6FC&amp;dates=8B949E&amp;type=svg"
   alt="GitHub streak"
 />
 
