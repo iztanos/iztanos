@@ -2,13 +2,7 @@
 
 # `iztanos`
 
-<h3>
-  <code>Linux Kernel programming | Parallel Computation | Operating Systems</code>
-</h3>
 
-<p>
-  <code>Performance Engineering | GPU Kernels & Computing | AI Compilers</code>
-</p>
 
 <a href="https://github.com/iztanos">
   <img
@@ -40,20 +34,7 @@
 
 <br><br>
 
-<p>
-  <img height="28" src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=39d353&labelColor=000000" alt="C" />
-  <img height="28" src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=39d353&labelColor=000000" alt="C++" />
-  <img height="28" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=39d353&labelColor=000000" alt="Python" />
-  <img height="28" src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=39d353&labelColor=000000" alt="Rust" />
-  <img height="28" src="https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=39d353&labelColor=000000" alt="Linux" />
-  <img height="28" src="https://img.shields.io/badge/GDB-0d1117?style=for-the-badge&logo=gnu&logoColor=39d353&labelColor=000000" alt="GDB" />
-  <img height="28" src="https://img.shields.io/badge/perf-0d1117?style=for-the-badge&logo=linux&logoColor=39d353&labelColor=000000" alt="perf" />
-  <img height="28" src="https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=39d353&labelColor=000000" alt="Bash" />
-  <img height="28" src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=39d353&labelColor=000000" alt="Docker" />
-  <img height="28" src="https://img.shields.io/badge/CUDA-0d1117?style=for-the-badge&logo=nvidia&logoColor=39d353&labelColor=000000" alt="CUDA" />
-</p>
 
-<br>
 
 <h3>
   <code>Open Source</code>
