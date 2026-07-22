@@ -2,8 +2,6 @@
 
 # `iztanos`
 
-
-
 <a href="https://github.com/iztanos">
   <img
     height="32"
@@ -32,14 +30,9 @@
   alt="GitHub streak"
 />
 
-<br><br>
-
-
-
 <h3>
   <code>Open Source</code>
 </h3>
-
 <a href="https://github.com/iztanos/gdb-dojo">
   <img
     height="38"
